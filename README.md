@@ -10,6 +10,10 @@ Color ro = NipponColors.nipponColor250;
 
 ```
 
+## Todo
+- [ ] Add Romanised name support
+- [ ] Add document so that color can show up by IntelliCode
+
 ## Getting Started
 
 For help getting started with Flutter, view our online
