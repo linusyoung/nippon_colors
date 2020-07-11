@@ -11,8 +11,8 @@ Color ro = NipponColors.nipponColor250;
 ```
 
 ## Todo
-- [ ] Add Romanised name support
-- [ ] Add document so that color can show up by IntelliCode
+- [x] Add Romanised name support
+- [x] Add document so that color can show up by IntelliCode
 - [ ] Add example
 
 ## Getting Started
