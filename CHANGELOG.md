@@ -1,3 +1,7 @@
+## 0.2.1 - 2020.07.11
+1. add one example
+2. update description
+
 ## 0.2.0 - 2020.07.11
 1. support Romanised name
 2. update color definition to use fromARGB so there is a color preview supported text editor.
