@@ -1,3 +1,6 @@
+## 0.2.2 - 2023.08.25
+1. update to dart3
+
 ## 0.2.1 - 2020.07.11
 1. add one example
 2. update description
