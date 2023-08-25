@@ -1,7 +1,7 @@
 name: nippon_colors
 description: >
   Implement all 250 traditional nippon colors for easy use. Support using by code or Romanised name.
-version: 0.2.1
+version: 0.2.2
 homepage: https://github.com/linusyoung/nippon_colors
 
 environment:
