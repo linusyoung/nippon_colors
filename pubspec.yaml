@@ -1,11 +1,11 @@
 name: nippon_colors
-description: > 
+description: >
   Implement all 250 traditional nippon colors for easy use. Support using by code or Romanised name.
 version: 0.2.1
 homepage: https://github.com/linusyoung/nippon_colors
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
+  sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
   flutter:
